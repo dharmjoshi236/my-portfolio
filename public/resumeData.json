@@ -2,9 +2,9 @@
   "main": {
     "name":"Dharm Joshi",
     "description":"A FullStack Enthusiast, Learner, Philantrophist, Philosopher, Human...",
-    "bio":"Hey Folks!, Myself Dharm Joshi, a Full-Stack Enthusiast, Learner, And Philantrophist. I love to read books on finance,coding and investment. I am a 5th Semester Student at Silver Oak College in Ahmedabad. My primary focus is always on learning new technologies and researching about them in my free time. There is a lot to learn and apply in life. Looking to giving my best in whatever I do. THANK YOU!!",
+    "bio":"Hey Folks!, Myself Dharm Joshi, a Full-Stack Enthusiast, Learner, And Philantrophist. I love to read books on finance,coding and investment. I am a 5th Semester Student at Silver Oak College in Ahmedabad. My primary focus is always on learning new technologies and researching about them in my free time. There is a lot to learn and apply in life. Looking to give my best in whatever I do. THANK YOU!!",
     "contactmessage":"I do freelancing in technologies such as NodeJs, React JS. Please Go Through My Cv, from the resume section. Thank You.... ",
-    "email": "mailto:dharmjoshi01@gmail.com",
+    "email": "mailto:dharmjoshi01@gmail.com?subject= Freelancing Inquiry",
     "phone": "7284969868",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
@@ -33,7 +33,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I develop Web-Application Using ==>> const Technologies = {[NodeJs, Express, ReactJs, MongoDb]}",
+    "skillmessage":"I develop Web-Applications Using ==>> const Technologies = {[NodeJs, Express, ReactJs, MongoDb]}",
     "education":[
       {
         "school":"Silver Oak College Of Engineering",
@@ -42,7 +42,7 @@
         "description":"College is for fun, No need to study there."
       },
       {
-        "school":"Gayatri Vidhalaya",
+        "school":"Gayatri Vidhyalaya",
         "degree":"10+2 (Mathematics, Chemistry, Physics)",
         "graduated":"March 2019",
         "description":"Done my 11th and 12th , in Science Stream, with Maths,Chemistry,Physics as Core Subjects"
